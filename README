@@ -1,3 +1,6 @@
+Requires pygame (checked with pygame 1.9.1)
+
+
 changing reward of tile: click with LMB on tile, type new reward and press ENTER
 changing reward of all non terminal tiles: click with LMB on button "reward", type new reward, press ENTER
 setting tile as (non)terminal: hover mouse over tile and press SPACE
