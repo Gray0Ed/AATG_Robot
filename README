@@ -1,0 +1,6 @@
+changing reward of tile: click with LMB on tile, type new reward and press ENTER
+changing reward of all non terminal tiles: click with LMB on button "reward", type new reward, press ENTER
+setting tile as (non)terminal: hover mouse over tile and press SPACE
+setting tile as (non)passable: hover mouse over tile and press RMB
+showing arrows pointing best strategy: click with LMB button named arrows
+
